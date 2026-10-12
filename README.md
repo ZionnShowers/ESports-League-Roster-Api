@@ -1,3 +1,7 @@
+//Zionn Showers
+//10-12-2026
+//Esports League Roster Api
+/* I had to make a database for players and make teams for them. This was very hard for me. I constantly felt like I kept forgetting every code I knew and I constantly had to ask for help every day. Absolutely hated this.*/
 
 Peer Reviewer: Callen Thomason
 REview: Your model looks great, and your DTOS look good too. For the TransferDto isn't it only supposed to have one variable though? 
