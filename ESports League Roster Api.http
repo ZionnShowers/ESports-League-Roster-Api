@@ -1,0 +1,6 @@
+@ESports_League_Roster_Api_HostAddress = http://localhost:5119
+
+GET {{ESports_League_Roster_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
